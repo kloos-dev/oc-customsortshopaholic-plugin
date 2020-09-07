@@ -4,3 +4,5 @@
     - 'Added custom sort order column to the products table'
     - update_table_product.php
     - seeder_table_product_sort_order.php
+1.0.2:
+    - 'Bugfix ProductItem::class'

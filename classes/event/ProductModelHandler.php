@@ -24,7 +24,7 @@ class ProductModelHandler extends ModelHandler
 
     public function getItemClass()
     {
-        return ProductItem::class();
+        return ProductItem::class;
     }
 
     public function getSortingList($sSorting)
